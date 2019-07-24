@@ -1,6 +1,6 @@
 # Blog
 
-#### ![](Blog/image/NewPost.gif "Post")
+#### ![](Blog/image/post.gif "Post")
 
 
 ## General Requirements
