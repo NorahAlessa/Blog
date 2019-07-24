@@ -1,6 +1,7 @@
 # Blog
 
-#### ![alt text](Blog/image/NewPost.gif "Post")
+#### ![](Blog/image/NewPost.gif "Post")
+
 
 ## General Requirements
 * Build a web application from scratch, must be your own work.
