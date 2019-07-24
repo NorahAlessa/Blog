@@ -1,5 +1,5 @@
 # Blog
-First Full Stack Application-Project 2
+
 #### ![alt text](Blog/image/NewPost.gif "Post")
 
 ## General Requirements
