@@ -1,6 +1,6 @@
 # Blog
 First Full Stack Application-Project 2
-#### ![alt text](Blog/image/NewqPost.gif "Post")
+#### ![alt text](Blog/image/NewPost.gif "Post")
 
 ## General Requirements
 * Build a web application from scratch, must be your own work.
@@ -9,14 +9,14 @@ First Full Stack Application-Project 2
 * Deploy on Heroku so application is live on the web.
 * Craft a README.md file that explains your app to the world.
 
-##Technical Requirements
-###Authentication
+## Technical Requirements
+### Authentication
 * User must be able to sign up
 * User must be able to sign in
 * User must be able to change password
 * User must be able to sign out
 
-##User Stories
+## User Stories
 * The User is able to sign up 
 * The User is able to log in/log out
 * The User able to create a Post
